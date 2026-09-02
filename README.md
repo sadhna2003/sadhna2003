@@ -71,11 +71,20 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 
 ### 🧩 UI & Component Libraries
 
+![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss)
+![shadcn/ui](https://cdn.simpleicons.org/shadcnui)
+![Radix UI](https://cdn.simpleicons.org/radixui)
+![Storybook](https://cdn.simpleicons.org/storybook)
+
 **Tailwind CSS · shadcn/ui · Radix UI · Storybook**
 
 ---
 
 ### 📝 Forms & Validation
+
+![React Hook Form](https://cdn.simpleicons.org/reacthookform)
+![Zod](https://cdn.simpleicons.org/zod)
+![Yup](https://cdn.simpleicons.org/yup)
 
 **React Hook Form · Zod · Yup**
 
@@ -99,7 +108,8 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 
 ### 🛍️ E-commerce & CMS
 
-![My Skills](https://skillicons.dev/icons?i=shopify,hydrogen,strapi)
+![Shopify](https://cdn.simpleicons.org/shopify)
+![Strapi](https://cdn.simpleicons.org/strapi)
 
 **Shopify · Shopify Hydrogen · Strapi**
 
