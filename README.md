@@ -71,10 +71,10 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 
 ### 🧩 UI & Component Libraries
 
-![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss)
-![shadcn/ui](https://cdn.simpleicons.org/shadcnui)
-![Radix UI](https://cdn.simpleicons.org/radixui)
-![Storybook](https://cdn.simpleicons.org/storybook)
+<img src="https://cdn.simpleicons.org/tailwindcss" width="35" height="35" />
+<img src="https://cdn.simpleicons.org/shadcnui" width="35" height="35" />
+<img src="https://cdn.simpleicons.org/radixui" width="35" height="35" />
+<img src="https://cdn.simpleicons.org/storybook" width="35" height="35" />
 
 **Tailwind CSS · shadcn/ui · Radix UI · Storybook**
 
@@ -82,9 +82,9 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 
 ### 📝 Forms & Validation
 
-![React Hook Form](https://cdn.simpleicons.org/reacthookform)
-![Zod](https://cdn.simpleicons.org/zod)
-![Yup](https://cdn.simpleicons.org/yup)
+<img src="https://cdn.simpleicons.org/reacthookform" width="35" height="35" />
+<img src="https://cdn.simpleicons.org/zod" width="35" height="35" />
+<img src="https://cdn.simpleicons.org/yup" width="35" height="35" />
 
 **React Hook Form · Zod · Yup**
 
