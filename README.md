@@ -72,10 +72,10 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 ### 🧩 UI & Component Libraries
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/shadcnui" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/radixui" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/shadcnui" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/radixui" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="48" height="48" />
 </p>
 
 **Tailwind CSS · shadcn/ui · Radix UI · Storybook**
@@ -85,9 +85,8 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 ### 📝 Forms & Validation
 
 <p>
-  <img src="https://cdn.simpleicons.org/reacthookform" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/zod" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/yup" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/reacthookform" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/zod" width="48" height="48" />
 </p>
 
 **React Hook Form · Zod · Yup**
@@ -112,8 +111,10 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 
 ### 🛍️ E-commerce & CMS
 
-![Shopify](https://cdn.simpleicons.org/shopify)
-![Strapi](https://cdn.simpleicons.org/strapi)
+<p>
+  <img src="https://cdn.simpleicons.org/shopify" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/strapi" width="48" height="48" />
+</p>
 
 **Shopify · Shopify Hydrogen · Strapi**
 
