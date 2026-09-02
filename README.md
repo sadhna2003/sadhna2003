@@ -39,9 +39,9 @@ I specialize in modern frontend development with **React.js, Next.js, TypeScript
 
 ### 🎨 Frontend
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,astro,html,css,tailwind)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,nuxtjs,astro,html,css,tailwind)
 
-**React.js · Next.js · Vue.js · Nuxt.js · Astro.js · HTML5 · CSS3 · Tailwind CSS**
+**React.js · Next.js · Angular · Vue.js · Nuxt.js · Astro.js · HTML5 · CSS3 · Tailwind CSS**
 
 ---
 
@@ -185,20 +185,6 @@ During my professional experience, I have worked on:
 
 ### Becoming a Stronger Full Stack Engineer
 
-```text
-Frontend Architecture
-        ↓
-Backend Development
-        ↓
-API & Database Design
-        ↓
-Authentication & Authorization
-        ↓
-System Design
-        ↓
-Scalable Applications
-```
-
 Currently focusing on:
 
 - 🏗️ Scalable application architecture
@@ -211,36 +197,11 @@ Currently focusing on:
 
 ---
 
-# 📊 GitHub Stats
-
-![Sadhna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadhna82003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhna82003&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sadhna82003&theme=tokyonight&hide_border=true)
-
----
-
-# 🎓 Education
-
-### B.Tech in Computer Engineering
-
-**Silver Oak University · 2025**
-
-**CGPA: 9.92 / 10**
-
----
 
 # 🤝 Let's Connect
 
 - 💼 [LinkedIn](YOUR_LINKEDIN_URL)
 - 🐙 [GitHub](https://github.com/sadhna82003)
-- 📧 [Email](mailto:YOUR_EMAIL)
-
 ---
 
 ### ⭐ Thanks for visiting my profile!
